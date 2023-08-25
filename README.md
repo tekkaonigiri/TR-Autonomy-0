@@ -11,6 +11,10 @@ Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/in
 
 Once you have a running Ubuntu install, you need to install ROS2 Humble: https://docs.ros.org/en/humble/Installation.html
 
+And you should install miniconda: https://docs.conda.io/en/latest/miniconda.html#linux-installers
+
+To learn more about conda, read [this getting started guide](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html).
+
 Finally, before attempting unit 1, you should brush up on C++. Chapters 1-11 of https://www.learncpp.com/, as well as the smart pointers sections in M.6 & M.7, are useful.
 
 You should also read through the [ROS2 Humble docs](https://docs.ros.org/en/humble), specifically [**Concepts > Basic Concepts**](https://docs.ros.org/en/humble/Concepts/Basic.html), [**Tutorials > Beginner CLI Tools**](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools.html), and [**Tutorials > Beginner Client Libraries**](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries.html).

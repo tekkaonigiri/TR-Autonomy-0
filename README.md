@@ -20,3 +20,5 @@ Finally, before attempting unit 1, you should brush up on C++. Chapters 1-11 of 
 You should also read through the [ROS2 Humble docs](https://docs.ros.org/en/humble), specifically [**Concepts > Basic Concepts**](https://docs.ros.org/en/humble/Concepts/Basic.html), [**Tutorials > Beginner CLI Tools**](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools.html), and [**Tutorials > Beginner Client Libraries**](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries.html).
 
 If you want to try running some of the tutorial code in C++ or Python, feel free. But we use C++ on the robots.
+
+**To complete this assignment, take a screenshot of ubuntu running, add it to this git repo, and commit+push it.**

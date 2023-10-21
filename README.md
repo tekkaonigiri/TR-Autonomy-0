@@ -1,6 +1,8 @@
 # TR-CV-0
 Setup guide for TR CV recruits
 
+[![CV Training Resources](https://img.shields.io/badge/CV-%20Training%20Resources-eac817?labelColor=2a77a2&style=for-the-badge)](https://github.com/Triton-Robotics-Training/TR-CV-0/blob/main/resources.md)
+
 To run our code in TR, you need at least 2 things: Ubuntu and ROS2
 
 You can dual boot Ubuntu on your computer's hard drive, create a bootable external drive, or (not recommended) use something like VMWare player.

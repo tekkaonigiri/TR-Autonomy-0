@@ -9,7 +9,19 @@ You can dual boot Ubuntu on your computer's hard drive, create a bootable extern
 
 ### Make sure to install these versions: Ubuntu 22.04 and ROS2 Humble
 
+## Native (x86 only):
+
 Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
+
+## Virtual Machine (Also good):
+### For x86:
+[VirtualBox](https://www.virtualbox.org/)
+
+[VMWare Player](https://www.vmware.com/products/workstation-player.html)
+### For M1:
+[UTM](https://mac.getutm.app/)
+
+---
 
 Once you have a running Ubuntu install, you need to install ROS2 Humble: https://docs.ros.org/en/humble/Installation.html
 

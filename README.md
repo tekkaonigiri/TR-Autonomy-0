@@ -23,7 +23,9 @@ Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/in
 
 ---
 
-Once you have a running Ubuntu install, you need to install ROS2 Humble: https://docs.ros.org/en/humble/Installation.html
+Once you have a running Ubuntu install, you need to install ROS2 Humble: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
+
+Make sure to install using the debian packages, __not from source__!
 
 Finally, before attempting unit 1, you should brush up on C++ and read through the ROS2 Humble docs. Click the "CV Training Resources" badge above to see the relevant chapters.
 

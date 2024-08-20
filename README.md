@@ -8,20 +8,21 @@ To run our code in TR, you need at least 2 things: **Ubuntu** and **ROS2**
 - **Ubuntu** is a Distro that runs on Linux, which is a type of Operating System.
 - **ROS2** (Robot Operating System) is a combination of software libraries to develop robotics projects, best run on ubuntu.
 
-We recommend setting up Ubuntu either by simulating it through a Virtual Machine (non optimal since it's slow but survivable), or through Dual Boot 
+We recommend setting up Ubuntu either by simulating it through a Virtual Machine (non optimal since it's slow), or through Dual Boot 
 
 ### Make sure to install these versions: Ubuntu 22.04 and ROS2 Humble
 
-## Dual Boot (for x86 only):
+## Installing Ubuntu
 
+### Dual Boot (for x86 only):
 Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
 
-## Virtual Machine (Also good):
-### For x86:
+### Virtual Machine (Survivable):
+#### For x86:
 [VirtualBox](https://www.virtualbox.org/)
 
 [VMWare Player](https://www.vmware.com/products/workstation-player.html)
-### For M1:
+#### For M1:
 [UTM](https://mac.getutm.app/)
 
 ---

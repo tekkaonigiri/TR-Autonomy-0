@@ -1,15 +1,18 @@
-# TR-CV-0
+# TR-Autonomy-0
 Setup guide for TR CV recruits
 
 [![CV Training Resources](https://img.shields.io/badge/CV-%20Training%20Resources-eac817?labelColor=2a77a2&style=for-the-badge)](https://github.com/Triton-Robotics-Training/TR-CV-0/blob/main/resources.md)
 
+Congratulations and welcome to the Autonomy team! Before we can jump into coding, we need to setup our environment first.
 To run our code in TR, you need at least 2 things: **Ubuntu** and **ROS2**
+- **Ubuntu** is a Distro that runs on Linux, which is a type of Operating System.
+- **ROS2** (Robot Operating System) is a combination of software libraries to develop robotics projects, best run on ubuntu.
 
-You can dual boot Ubuntu on your computer's hard drive, create a bootable external drive, or (not recommended) use something like VMWare player.
+We recommend setting up Ubuntu either by simulating it through a Virtual Machine (non optimal since it's slow but survivable), or through Dual Boot 
 
 ### Make sure to install these versions: Ubuntu 22.04 and ROS2 Humble
 
-## Native (x86 only):
+## Dual Boot (for x86 only):
 
 Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
 
@@ -22,13 +25,14 @@ Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/in
 [UTM](https://mac.getutm.app/)
 
 ---
-
-Once you have a running Ubuntu install, you need to install ROS2 Humble: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
+## Installing ROS2
+Once you have a running Ubuntu install, follow these directions to install ROS2 Humble: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html  
 
 Make sure to install using the debian packages, __not from source__!
 
-Finally, before attempting unit 1, you should brush up on C++ and read through the ROS2 Humble docs. Click the "CV Training Resources" badge above to see the relevant chapters.
-
-If you want to try running some of the tutorial code in C++ or Python, feel free. But we use C++ on the robots.
+If you can get a publisher and a talker running in terminal, congratulations! You've just setup your environment. Just make sure to take a screenshot of ubuntu and commit it to your work of this repository. Before you move on to week 1, we now recommend:
+- brushing up on C++ ([link](https://www.learncpp.com/))
+- reading the ROS2 humble [documentation](https://docs.ros.org/en/humble/Tutorials.html)  
+More resources can be accessed by clicking the "CV Training Resources badge" at the top of the README to see the relevant chapters.
 
 **To complete this assignment, take a screenshot of ubuntu running, add it to this git repo, and commit+push it.**

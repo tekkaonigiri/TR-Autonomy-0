@@ -25,7 +25,9 @@ Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/in
 #### For M1:
 [UTM](https://mac.getutm.app/)
 
----
+![image](https://github.com/user-attachments/assets/cc8845ba-7819-4c1a-bd19-40eac5815916)
+Example of a running version of Ubuntu
+
 ## Installing ROS2
 Once you have a running Ubuntu install, follow these directions to install ROS2 Humble: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html  
 

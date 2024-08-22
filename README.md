@@ -29,7 +29,7 @@ Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/in
 Example of a running version of Ubuntu
 
 ## Installing ROS2
-Once you have a running Ubuntu install, follow these directions to install ROS2 Humble: https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html  
+Once you have a running Ubuntu install, follow these directions to install ROS2 Humble (I recommend the Desktop Install): https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html  
 
 Make sure to install using the debian packages, __not from source__!
 

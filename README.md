@@ -1,7 +1,7 @@
 # TR-Autonomy-0
-Setup guide for TR CV recruits
+Setup guide for TR Autonomy recruits
 
-[![CV Training Resources](https://img.shields.io/badge/CV-%20Training%20Resources-eac817?labelColor=2a77a2&style=for-the-badge)](https://github.com/Triton-Robotics-Training/TR-CV-0/blob/main/resources.md)
+[![Autonomy Training Resources](https://img.shields.io/badge/CV-%20Training%20Resources-eac817?labelColor=2a77a2&style=for-the-badge)](https://github.com/Triton-Robotics-Training/TR-CV-0/blob/main/resources.md)
 
 Congratulations and welcome to the Autonomy team! Before we can jump into coding, we need to setup our environment first.
 To run our code in TR, you need at least 2 things: **Ubuntu** and **ROS2**

@@ -25,7 +25,7 @@ Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/in
 #### For M1:
 [UTM](https://mac.getutm.app/)
 
-![image](https://github.com/user-attachments/assets/cc8845ba-7819-4c1a-bd19-40eac5815916)
+![image](https://github.com/user-attachments/assets/d016f46f-20be-4a36-b850-1a947bf13c19)
 Example of a running version of Ubuntu
 
 ## Installing ROS2
@@ -35,7 +35,8 @@ Make sure to install using the debian packages, __not from source__!
 
 If you can get a publisher and a talker running in terminal, congratulations! You've just setup your environment. Just make sure to take a screenshot of ubuntu and commit it to your work of this repository. Before you move on to week 1, we now recommend:
 - brushing up on C++ ([link](https://www.learncpp.com/))
-- reading the ROS2 humble [documentation](https://docs.ros.org/en/humble/Tutorials.html)  
-More resources can be accessed by clicking the "CV Training Resources badge" at the top of the README to see the relevant chapters.
+- reading the ROS2 humble [documentation](https://docs.ros.org/en/humble/Tutorials.html)
+- setting up your preferred IDE  
 
+More resources can be accessed by clicking the "CV Training Resources badge" at the top of the README to see the relevant chapters.
 **To complete this assignment, take a screenshot of ubuntu running, add it to this git repo, and commit+push it.**

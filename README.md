@@ -17,7 +17,8 @@ We recommend setting up Ubuntu either by simulating it through a Virtual Machine
 ## Installing Ubuntu
 
 ### Dual Boot (for x86 only):
-Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
+Here's a pretty good guide on installing Ubuntu: https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview  
+And one that uses Rufus if BalenaEtcher isn't working: https://www.onlogic.com/blog/how-to-dual-boot-windows-11-and-linux/
 
 ### Virtual Machine (Survivable):
 #### For x86:
